@@ -7,7 +7,7 @@ About ME <br>
 <ul>
   <li>💻 Ex-Software intern @fruxtechnologies.<br></li>
   <li>🛠 I created full stack web applications.<br></li>
-  <li>💡 Always ready to learn something diffrent & apply best practices.</li>
+  <li>💡 Always ready to learn something diffrent & new technologies.</li>
 </ul>
 
 ## 🌐 Socials:
