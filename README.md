@@ -2,8 +2,7 @@
 
 Software Engineer | Full Stack Developer 
 
-About ME <br>
-
+About Me: <br>
 <ul>
   <li>💻 Ex-Software intern @fruxtechnologies.<br></li>
   <li>🛠 I created full stack web applications.<br></li>
