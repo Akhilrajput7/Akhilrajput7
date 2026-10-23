@@ -4,7 +4,7 @@ Software Developer | Full Stack Developer
 
 About Me: <br>
 <ul>
-  <li>💻 Ex-Software intern @fruxtechnologies.<br></li>
+  <li>💻Full stack Developer @ <b>Korvage information Technology</b> | Ex-<b>Frux Technologies<b/>.<br></li>
   <li>🛠 I created full stack web applications.<br></li>
   <li>💡 Always ready to learn something diffrent & new technologies.</li>
 </ul>
